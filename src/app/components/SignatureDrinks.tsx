@@ -19,7 +19,7 @@ const drinks: Drink[] = [
     price: '$5.50',
     image: '/images/cappuccino-drink.jpg',
     featured: true,
-  }
+  },
   {
     id: 2,
     name: 'Iced Caramel Delight',
