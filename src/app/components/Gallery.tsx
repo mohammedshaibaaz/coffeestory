@@ -6,52 +6,52 @@ import { X, ChevronLeft, ChevronRight } from 'lucide-react';
 const galleryImages = [
   {
     id: 1,
-    src: '/images/photo-1672570050756-4f1953bde478.jpg',
+    src: '/images/coffee-beans.jpg',
     alt: 'Freshly roasted coffee beans',
   },
   {
     id: 2,
-    src: '/images/photo-1703016402680-d12e7dc746d9.jpg',
+    src: '/images/fresh-croissant.jpg',
     alt: 'Fresh croissant',
   },
   {
     id: 3,
-    src: '/images/photo-1728221998562-1971a6f07b31.jpg',
+    src: '/images/cozy-cafe-ambiance.jpg',
     alt: 'Cozy cafe ambiance',
   },
   {
     id: 4,
-    src: '/images/photo-1591622595512-c49b8aa26e28.jpg',
+    src: '/images/breakfast-setup.jpg',
     alt: 'Breakfast table setup',
   },
   {
     id: 5,
-    src: '/images/photo-1696153863935-f8cea8318a39.jpg',
+    src: '/images/holding-latte.jpg',
     alt: 'Holding a latte',
   },
   {
     id: 6,
-    src: '/images/photo-1620260714969-60878ca7a389.jpg',
+    src: '/images/outdoor-seating.jpg',
     alt: 'Outdoor cafe seating',
   },
   {
     id: 7,
-    src: '/images/photo-1583577012061-d69d2dbc900a.jpg',
+    src: '/images/coffee-brewing.jpg',
     alt: 'Fresh coffee brewing',
   },
   {
     id: 8,
-    src: '/images/photo-1754086292529-38ed4c0596da.jpg',
+    src: '/images/dessert.jpg',
     alt: 'Delicious dessert',
   },
   {
     id: 9,
-    src: '/images/photo-1675864490061-30cfc9b256b5.jpg',
+    src: '/images/coffee-moments.jpg',
     alt: 'Coffee moments',
   },
   {
     id: 10,
-    src: '/images/photo-1677406908796-17d372b18aec.jpg',
+    src: '/images/coffee-art.jpg',
     alt: 'Coffee art',
   },
 ];

@@ -140,7 +140,7 @@ export function Location() {
           >
             <div className="absolute inset-0">
               <img
-                src="/images/photo-1767780449620-b9dc775a33f3.jpg"
+                src="/images/cafe-exterior.jpg"
                 alt="Cafe exterior"
                 className="w-full h-full object-cover"
                 loading="lazy"

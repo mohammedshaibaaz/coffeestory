@@ -36,7 +36,7 @@ export function Hero() {
         <div
           className="w-full h-full"
           style={{
-            backgroundImage: 'url(/images/photo-1617004446454-e9b6a171a221.png)',
+            backgroundImage: 'url(/images/hero-cafe-background.png)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             transform: 'scale(1)',
