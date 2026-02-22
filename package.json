@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node -e \"(async()=>{const m=await import('vite');await m.build()})()\"",
+    "vercel-build": "node -e \"(async()=>{const m=await import('vite');await m.build()})()\"",
     "dev": "vite"
   },
   "dependencies": {
